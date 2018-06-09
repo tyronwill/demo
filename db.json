@@ -9,6 +9,12 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Happy Gilmore",
+    "birthday" : "12151960",
+    "social security" :"123-45-1234",
+    "address" : "12 Football Lane",
+    "city": "Good",
+    "state" : "CO",
+    "Zip code" : "12456"
   }
 }
